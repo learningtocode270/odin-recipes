@@ -1,0 +1,20 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.recipe_name {
+    font-size: 22px;
+    color: black;
+    font-weight: 400;
+}
+
+.header {
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 800;
+}
+
+.text {
+    font-family:'Courier New', Courier, monospace;
+}
